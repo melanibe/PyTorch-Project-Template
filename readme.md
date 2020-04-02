@@ -2,7 +2,7 @@
 This repo contains a code structure that can be used as a simple PyTorch project template. 
 It defines classes for dataset creation, data loader creation (including training/validation split handling), model, training procedure definition (including basic tensorboard logging). 
 
-To use this repo for your projects, you can clone/fork this repo and use it as a starting point. To goal is to avoid to rewrite common steps such as
+To use this repo for your projects, you can fork/download this repo and use it as a starting point. To goal is to avoid to rewriting common steps such as
   * `Dataset` to `DataLoader` conversion
   * Validation/training set split logic
   * Training loop definition
